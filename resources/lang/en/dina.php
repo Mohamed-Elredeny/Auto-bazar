@@ -1,0 +1,52 @@
+<?php
+return [
+    'Edit_profile' => 'Edit profile',
+    'Day' => 'Day',
+    'Week' => 'Week',
+    'Month' => 'Month',
+    'Hour' => 'Hour',
+    'Search_About_Your_Products' => 'Search About Your Products',
+    'Sold_by' => 'Sold by',
+    'Add_to_wishlist' => 'Add to wishlist',
+    'Contact_whatsapp' => 'Contact whatsapp',
+    'Direct_connections ' => 'Direct connections',
+    'Detailed _specifications ' => '	Detailed  specifications',
+    'Car_make' => 'Car make',
+    'Set_your_product_price_in_dollars' => ' Set your product price in dollars',
+    'You_have_select_your' => 'You have select your	',
+    'Mark_successfully' => 'Mark successfully',
+
+
+//New Part
+    'Shop_type'=>'Shop Type',
+    'RELATED_PRODUCTS'=>'Related Products',
+    "Show_moreproducts"=>'Show More Products',
+    'MileAge'=>'MileAge',
+    'Cover_Image' => 'Cover Image ',
+    'done'=> 'Done',
+    'Social_Media'=> 'Social Media',
+    'Social_Media_Links'=> 'Social Media Links',
+    'Country_of_Origin '=> 'Country Of Origin',
+    'work_day'=> 'Work Days',
+    'Engine_Power'=> 'Engine Power',
+    "Department"=> 'Department',
+    "Subscription_plan"=>'Subscription Plan',
+    "Choose_Country"=>'Choose Country',
+    "Choose_City"=>'Choose City',
+    "Mobile_Number_1"=>'Mobile Number 1',
+    "Mobile_Number_2"=>'Mobile Number 2',
+    "Profile_Image"=>'Profile Image',
+    "First_Name"=> 'First Name',
+    "Last_Name"=> 'Last Name',
+    "Do_you_agree"=> 'Do you agree all terms and condtions?',
+    "Already_have_an_account"=>"Already have an account !",
+    "next"=>'Next',
+    "Do_you_have_a_maintenance_center"=>'Do you have a maintenance center',
+    "Account_Subscription"=>'Account / Subscription',
+    "Company’s_Name"=>'Company Name',
+    'call_him_now'=>'Call Him Now',
+    'default'=>'Default',
+    'Unknown' =>'نەناسراوە'
+    ];
+
+?>
